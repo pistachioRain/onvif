@@ -14,7 +14,7 @@ import (
 	"github.com/pistachioRain/onvif/device"
 	"github.com/pistachioRain/onvif/gosoap"
 	"github.com/pistachioRain/onvif/networking"
-	wsdiscovery "github.com/use-go/onvif/ws-discovery"
+	wsdiscovery "github.com/pistachioRain/onvif/ws-discovery"
 )
 
 // Xlmns XML Scheam

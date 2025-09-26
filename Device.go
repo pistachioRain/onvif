@@ -11,9 +11,9 @@ import (
 	"strings"
 
 	"github.com/beevik/etree"
-	"github.com/use-go/onvif/device"
-	"github.com/use-go/onvif/gosoap"
-	"github.com/use-go/onvif/networking"
+	"github.com/pistachioRain/onvif/device"
+	"github.com/pistachioRain/onvif/gosoap"
+	"github.com/pistachioRain/onvif/networking"
 	wsdiscovery "github.com/use-go/onvif/ws-discovery"
 )
 
